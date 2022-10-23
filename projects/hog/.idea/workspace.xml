@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68d6908f-5be5-45df-905a-bb49b884ea02" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FcsItxP1t29gtYIOWZlYzFVQ8y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="hog" sdk-home="C:\Users\vigor\AppData\Local\Microsoft\WindowsApps\python3.10.exe">
+        <option name="mySdkHome" value="C:\Users\vigor\AppData\Local\Microsoft\WindowsApps\python3.10.exe" />
+        <option name="myModuleName" value="hog" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="68d6908f-5be5-45df-905a-bb49b884ea02" name="变更" comment="" />
+      <created>1664802630260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664802630260</updated>
+      <workItem from="1664802632958" duration="40000" />
+      <workItem from="1664802694379" duration="8885000" />
+      <workItem from="1664842151847" duration="5678000" />
+      <workItem from="1664849531336" duration="4758000" />
+      <workItem from="1664863496245" duration="1337000" />
+      <workItem from="1664866429284" duration="41000" />
+      <workItem from="1664866720847" duration="1564000" />
+      <workItem from="1664928860522" duration="386000" />
+      <workItem from="1664929259687" duration="332000" />
+      <workItem from="1664929604221" duration="19633000" />
+      <workItem from="1664973713052" duration="1613000" />
+      <workItem from="1665016366764" duration="12000" />
+      <workItem from="1665021683532" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
